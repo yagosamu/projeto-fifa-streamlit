@@ -23,8 +23,8 @@ Este é um aplicativo web interativo desenvolvido com [Streamlit](https://stream
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   cd SEU_REPOSITORIO
+   git clone https://github.com/yagosamu/projeto-fifa-streamlit.git
+   cd projeto-fifa_streamlit
    ```
 
 2. **(Opcional) Crie e ative um ambiente virtual:**
@@ -79,4 +79,3 @@ Acesse o link gerado, normalmente http://localhost:8501, em seu navegador.
 
 ---
 
-Se quiser incluir prints de tela, GIFs de demonstração ou adicionar mais detalhes, basta me informar ou inserir no local indicado. Se precisar de um exemplo de `requirements.txt` ou tiver dúvidas sobre publicação, só avisar!
