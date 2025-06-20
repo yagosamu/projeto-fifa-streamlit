@@ -9,6 +9,8 @@ Este é um aplicativo web interativo desenvolvido com [Streamlit](https://stream
 ![Visualização por jogador](images/screenshot2.png)
 ![Visualização por time](images/screenshot3.png)
 
+(O aplicativo também pode ser visto através da Streamlit Cloud, https://projeto-fifa-deploy.streamlit.app/)
+
 
 ## Funcionalidades
 
